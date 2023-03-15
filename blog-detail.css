@@ -1,0 +1,8 @@
+.blog-detail-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.blog-information {
+    width: 85%;
+}
